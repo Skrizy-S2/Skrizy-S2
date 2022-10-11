@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Skrizy-S2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Skrizy-S2/Skrizy-S2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Python
+- 📫 How to reach me rodrigo.mina@my.istec.pt
+- 💜 Discord: Skrizy#4333
